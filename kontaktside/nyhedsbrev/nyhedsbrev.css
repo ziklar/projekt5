@@ -1,0 +1,34 @@
+ .tilmeldpop{
+        display:none;
+      margin-top:300px;
+      margin-left:300px;
+    }
+    
+    .tilmeld2{
+        padding-top:10px;
+    }
+    
+    .nyhedsbrev{
+        padding-top:30px;
+    }
+    
+    .nyhedsbrevknap{
+        font-size:larger;
+        background-color:#fbfcf9;
+        border-radius:20px;
+        color:rgb(211, 166, 20);
+        border:0px;
+        height:50px;
+        font-size:large;
+        
+        cursor: pointer;
+        
+    }
+    
+    .takpop{
+        display:none;
+        font-size:large;
+        color:black;
+        
+    }
+    
